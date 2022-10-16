@@ -1,6 +1,6 @@
 [![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)](https://www.linkedin.com/in/marcoalonso/)
-<h1 align="center">Hi 👋, I'm marco alonso</h1>
-<h3 align="center">A passionate ios developer from Mexico</h3>
+<h1 align="center">Hi 👋, I'm Marco Alonso Rodriguez</h1>
+<h3 align="center">A passionate ios developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoalonso&label=Profile%20views&color=0e75b6&style=flat" alt="marcoalonso" /> </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcoalonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoalonso" height="30" width="40" /></a>
-<a href="https://fb.com/marco alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marco alonso" height="30" width="40" /></a>
+<a href="https://www.facebook.com/marquito.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marco alonso" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCknu6vH4a8tXLFpM_uQ-hBA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marco alonso" height="30" width="40" /></a>
 </p>
 
