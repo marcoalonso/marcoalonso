@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/marcoalonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoalonso" height="30" width="40" /></a>
 <a href="https://www.facebook.com/marquito.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marco alonso" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCknu6vH4a8tXLFpM_uQ-hBA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marco alonso" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@marcoalonsoiosdev" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png" alt="marco alonso" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@marcoalonsoios" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png" alt="marco alonso" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
