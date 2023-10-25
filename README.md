@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [AlquimiaPay](https://www.alquimiapay.com/)
 
-- 🌱 I’m currently learning **SWIFTUI and Flutter**
+- 🌱 I’m currently working with **SWIFTUI and dot net MAUI**
 
-- 🔭 I’m currently working also like ios instructor [Mobile Studio Mx](https://mobilestudio.mx/curso-ios/)
+- 🔭 I’m currently working as an ios instructor [iOS Bootcamp Mx](https://www.linkedin.com/company/ios-bootcamp-mx/)
 
 - 📫 How to reach me **marcoalonsoiosdeveloper@gmail.com**
 
