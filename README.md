@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcoalonso" alt="marcoalonso" /></a> </p>
 
-- 🔭 I’m currently working on [AlquimiaPay](https://www.alquimiapay.com/)
+- 🔭 I’m currently working like iOS Developer
 
-- 🌱 I’m currently working with **SWIFTUI and dot net MAUI**
-
-- 🔭 I’m currently working as an ios instructor [iOS Bootcamp Mx](https://www.linkedin.com/company/ios-bootcamp-mx/)
+- 🔭 I’m currently working as Swift Content Creator  [iOSMar Academy](https://www.youtube.com/@marcoalonsoiosmar-academy)
 
 - 📫 How to reach me **marcoalonsoiosdeveloper@gmail.com**
 
