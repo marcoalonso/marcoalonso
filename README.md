@@ -1,135 +1,217 @@
 <h1 align="center">Hi 👋, I'm Marco Alonso Rodríguez</h1>
+
 <h3 align="center">
-iOS Developer • Swift & SwiftUI • Content Creator
+Senior iOS Developer • Swift & SwiftUI • Apple Technologies
 </h3>
+
 <p align="center">
-I build native iOS applications focused on clean architecture, great user experiences, and modern Apple technologies.
+I build native iOS applications focused on clean architecture, great user experiences,
+and modern Apple technologies.
 </p>
+
+<p align="center">
+  <a href="https://marco-alonso.dev">
+    <img src="https://img.shields.io/badge/Portfolio-marco--alonso.dev-0A84FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://apps.apple.com/us/app/gastracky/id6798504651">
+    <img src="https://img.shields.io/badge/Gastracky-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Gastracky on the App Store"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marcoalonso/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@marcoalonsoiosmar-academy">
+    <img src="https://img.shields.io/badge/YouTube-iOSMar%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcoalonso&label=Profile%20views&color=0e75b6&style=flat" alt="marcoalonso" />
 </p>
 
-⸻
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🍎 iOS Developer specialized in Swift, SwiftUI and UIKit
-* 📱 Experience building and maintaining production iOS applications
-* 🏗️ Interested in Clean Architecture, MVVM and scalable iOS applications
-* 🗺️ Experience with MapKit, CoreLocation, Geofencing and Live Activities
-* 🔥 Working with Firebase, Crashlytics, Analytics and Push Notifications
-* 🧪 Experience with Unit Testing and CI/CD
-* 🤖 Exploring AI and Apple Foundation Models for iOS applications
-* 🎥 Swift & iOS Content Creator at iOSMar Academy
-* 🚀 Always learning and experimenting with new Apple technologies
+- 🍎 Senior iOS Developer specialized in **Swift, SwiftUI and UIKit**
+- 📱 Experience building and maintaining **production iOS applications**
+- 🏗️ Interested in **Clean Architecture, MVVM and scalable application design**
+- 🗺️ Experience with **MapKit, CoreLocation, Geofencing and Live Activities**
+- 💾 Experience with **SwiftData and Core Data**
+- 🔥 Experience with **Firebase, Crashlytics, Analytics and Push Notifications**
+- 🧪 Unit Testing, integration testing and CI/CD
+- 🤖 Exploring **AI, Apple Intelligence and Foundation Models** for iOS
+- 🎨 Focused on building polished and intuitive user experiences
+- 🎥 iOS Developer & Content Creator at **iOSMar Academy**
+- 🚀 Always learning and experimenting with new Apple technologies
 
-⸻
+---
 
-🚀 Featured Project — Gastracky
+# 🚀 Featured Project
 
-💰 Personal Finance for iPhone
+## 💰 Gastracky — Personal Finance for iPhone
 
-Gastracky is a personal finance app I’m currently building for iOS.
+<a href="https://apps.apple.com/us/app/gastracky/id6798504651">
+  <img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download Gastracky"/>
+</a>
 
-It helps users manage their finances in a simple and private way, with all financial information stored locally on the device.
+<br><br>
 
-Features
+**Gastracky** is a native iOS personal finance application designed to make
+managing money simple, intelligent and private.
 
-* 💸 Expense and income tracking
-* 🎙️ Voice-based transaction entry
-* 📷 Receipt scanning with OCR
-* 📊 Financial dashboard and insights
-* 💰 Budgets
-* 🎯 Savings goals
-* 💳 Debt tracking
-* 📱 Home Screen widgets
-* 💾 Backup support
-* 🔐 Local-first data storage
+The app is built with modern Apple technologies and follows a
+**local-first approach**, keeping financial information on the user's device.
 
-🧪 Join the Gastracky Beta
+### ✨ Features
 
-👉 Download Gastracky on TestFlight
+- 💸 Expense and income tracking
+- 📊 Financial dashboard and statistics
+- 🧠 AI-powered financial insights
+- 🍎 Apple Intelligence / on-device intelligence
+- 🎙️ Voice-based transaction entry
+- 📷 Receipt scanning with on-device OCR
+- 💰 Budgets
+- 🎯 Savings goals
+- 💳 Debt tracking
+- 🛒 Shopping lists
+- 🔔 Financial reminders
+- 📱 Home Screen widgets
+- 💾 Local backup support
+- 🔐 No account required
+- ☁️ No cloud sync by default
+- 🚫 No ads
+- 💳 No subscription required
 
-⸻
+### 🧠 Privacy & AI
 
-🛠️ iOS Tech Stack
+Gastracky was designed with privacy in mind.
+
+Financial data is stored locally on the device, while AI-powered insights
+are designed to process information on-device using Apple's technologies.
+
+---
+
+## 🛠️ iOS Tech Stack
+
+### Apple Technologies
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
-<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="45" height="45"/>
 </p>
 
-Apple Technologies
+**Swift • SwiftUI • UIKit • SwiftData • Core Data • Combine**
 
-Swift • SwiftUI • UIKit • Combine • SwiftData • Core Data
+**MapKit • CoreLocation • ActivityKit • WidgetKit • Vision**
 
-MapKit • CoreLocation • ActivityKit • WidgetKit • Vision
+**AVFoundation • StoreKit • UserNotifications • Foundation Models**
 
-AVFoundation • StoreKit • Push Notifications • Foundation Models
+### Architecture & Development
 
-Architecture & Development
+**MVVM • Clean Architecture • SOLID • Dependency Injection**
 
-MVVM • Clean Architecture • REST APIs • GraphQL
+**Async/Await • REST APIs • GraphQL**
 
-Unit Testing • Swift Package Manager • Git
+**Unit Testing • Integration Testing • Swift Package Manager**
 
-GitHub Actions • Azure DevOps • Xcode Cloud
+### CI/CD & Version Control
 
-Backend & Services
+**Git • GitHub • GitHub Actions • Azure DevOps • Xcode Cloud**
 
-Firebase • Firestore • Crashlytics • Analytics
+### Backend & Services
 
-⸻
+**Firebase • Firestore • Crashlytics • Firebase Analytics**
 
-🎥 iOSMar Academy
+### Development Tools
 
-I create content about Swift, SwiftUI, iOS Development and Apple technologies.
+**Xcode • Figma • Postman • Charles Proxy • Proxyman**
 
-👉 Visit iOSMar Academy on YouTube
+---
 
-Topics include:
+# 🎥 iOSMar Academy
 
-* Swift
-* SwiftUI
-* iOS Development
-* MapKit
-* Architecture
-* APIs
-* AI for iOS Developers
-* Apple frameworks
+I create content about **Swift, SwiftUI, iOS Development and Apple technologies**.
 
-⸻
+<a href="https://www.youtube.com/@marcoalonsoiosmar-academy">
+  <img src="https://img.shields.io/badge/Visit-iOSMar%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="iOSMar Academy"/>
+</a>
 
-🌐 Connect With Me
+### Topics
+
+- Swift
+- SwiftUI
+- iOS Development
+- UIKit
+- MapKit
+- CoreLocation
+- Architecture
+- APIs
+- Testing
+- AI for iOS Developers
+- Apple Frameworks
+
+---
+
+# 📱 Other iOS Experience
+
+Throughout my career I've worked on production applications involving:
+
+- 📍 Location services and geofencing
+- 🗺️ MapKit
+- ⚡ Live Activities
+- 🔔 Push Notifications
+- 🔥 Firebase
+- 📊 Analytics
+- 🧪 Automated testing
+- 🏗️ Scalable architectures
+- 🚀 CI/CD pipelines
+- 📱 Enterprise and consumer applications
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marcoalonso/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+
+<a href="https://marco-alonso.dev">
+<img src="https://img.shields.io/badge/Website-marco--alonso.dev-0A84FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
 </a>
-<a href="https://www.youtube.com/@marcoalonsoiosmar-academy" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
+
+<a href="https://www.linkedin.com/in/marcoalonso/">
+<img src="https://img.shields.io/badge/LinkedIn-Marco%20Alonso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<a href="https://www.youtube.com/@marcoalonsoiosmar-academy">
+<img src="https://img.shields.io/badge/YouTube-iOSMar%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://apps.apple.com/us/app/gastracky/id6798504651">
+<img src="https://img.shields.io/badge/App%20Store-Gastracky-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Gastracky"/>
+</a>
+
 </p>
 
-🌎 Portfolio: marco-alonso.dev
+---
 
-⸻
-
-📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoalonso&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marcoalonso&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoalonso&show_icons=true&locale=en&theme=transparent" alt="Marco Alonso GitHub Stats" />
 </p>
 
-⸻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoalonso&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+---
 
 <p align="center">
-🍎 Building iOS apps, learning every day, and sharing what I learn.
+  <b>🍎 Building native iOS apps, exploring Apple technologies, and sharing what I learn.</b>
+</p>
+
+<p align="center">
+  <a href="https://marco-alonso.dev">
+    marco-alonso.dev
+  </a>
 </p>
